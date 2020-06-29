@@ -1,11 +1,5 @@
-# `test`
+# Test repo for HTML Goddess
 
-> TODO: description
+> This is an empty test repo for unit testing the HTMLGoddess CLI
 
-## Usage
 
-```
-const test = require('test');
-
-// TODO: DEMONSTRATE API
-```
